@@ -2,4 +2,7 @@
 
 - main.ipynb is the main notebook to carryout data analysis, vizualize data and train the autoencoder
 - util.py has helper function to plot TSNE , transformation pipelines
-- plots contain useful visulaization with self explanotary names
+
+## t-SNE 2D data Visualization
+
+![alt text](tsne_initial_2d.png)
