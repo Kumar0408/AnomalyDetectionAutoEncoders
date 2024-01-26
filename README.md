@@ -9,3 +9,9 @@
 
 ## KDE plot of multivariate countor distribution of 3 features before Normalization
 ![alt text](KDE_plot_Before_transformations.png)
+
+## KDE plot of multivariate countor distribution of 3 features After Normalization with sample mean and variance
+![alt text](KDE_plot_After_transformations.png)
+
+## Distribution of Reconstruction Loss
+![alt_text](Distribution_of_the_Reconstruction_Loss.png)
