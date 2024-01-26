@@ -8,4 +8,4 @@
 ![alt text](tsne_initial_2d.png)
 
 ## KDE plot of multivariate countor distribution of 3 features before Noramlization
-![alt text](KDE plot Before transformations.png)
+![alt text](KDE_plot_Before_transformations.png)
