@@ -7,5 +7,5 @@
 ### Data of 30 features displayed in 2D plot
 ![alt text](tsne_initial_2d.png)
 
-## KDE plot of multivariate countor distribution of 3 features before Noramlization
+## KDE plot of multivariate countor distribution of 3 features before Normalization
 ![alt text](KDE_plot_Before_transformations.png)
